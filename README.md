@@ -1,1 +1,1 @@
-Hello! The name's John and I game dev as a hobby, but I enjoy programming in general. Solving practical problems through software makes me feel accomplished.
+Hello! The name's John and I game dev as a hobby, but I enjoy programming in general. Solving practical problems through software, creating systems, and bringing imagination to life makes me feel accomplished.
